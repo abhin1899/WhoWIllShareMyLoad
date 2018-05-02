@@ -10,15 +10,25 @@ Node Modules To be Installed
 5) npm install fs --save
 
 use pm2 to run node servers http://pm2.keymetrics.io/
+
 pm2 start server1.js
+
 pm2 start server2.js
+
 pm2 start server3.js
+
 pm2 start server4.js
+
+
 
 NGINX Configuration/Installation  link---> https://www.digitalocean.com/community/tutorials/how-to-install-nginx-on-ubuntu-16-04 
 Go To
 /etc/nginx/sites-available/default
 And Change The Default File To The File Provided As NGINX Configuration
+
+sudo systemctl start nginx
+
+sudo systemctl reload nginx  (once the changes to nginx congiguration file are made)
 
 
 Mozilla Firefox Proxy Configuration 
