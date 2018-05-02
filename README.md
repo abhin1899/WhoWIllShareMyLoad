@@ -26,6 +26,6 @@ Mozilla Firefox Proxy Configuration
 
 Using Apache Bench To Bench Mark The Tests
 
---> balancing_load_among_multiple_server.png -- To demonstrate load baancing
+--> balancing_load_among_multiple_server.png -- To demonstrate load balancing
 
 --> single_server.png -- Load is not shared and a singe server is used
