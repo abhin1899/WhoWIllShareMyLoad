@@ -10,6 +10,11 @@ Node Modules To be Installed
 5) npm install fs --save
 
 NGINX Configuration/Installation  link---> https://www.digitalocean.com/community/tutorials/how-to-install-nginx-on-ubuntu-16-04 
+Go To
+/etc/nginx/sites-available/default
+And Change The Default File To The File Provided As NGINX Configuration
+
+
 
 Mozilla Firefox Proxy Configuration 
 
