@@ -24,3 +24,4 @@ Mozilla Firefox Proxy Configuration
 --> Set The HTTP Proxy to 127.0.0.1
 --> Then Click On OK Done!!
 
+Using Apache Bench To Bench Mark The Tests
