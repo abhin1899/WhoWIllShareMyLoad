@@ -33,7 +33,7 @@ And Change The Default File To The File Provided As NGINX Configuration
 
 sudo systemctl start nginx
 
-sudo systemctl reload nginx  (once the changes to nginx congiguration file are made)
+sudo systemctl reload nginx  (once the changes to nginx configuration file are made)
 
 
 Mozilla Firefox Proxy Configuration 
